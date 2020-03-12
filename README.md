@@ -22,7 +22,15 @@ The main features are:
 * TCP server streaming and recceiving raw data to/from connected clients
   (using --net).
 
-Installation
+Quick Installation (macOS)
+---
+
+Pre-requisites:
+Homebrew
+
+Type ./mac_install.sh
+
+Normal Installation
 ---
 
 Type "make".
